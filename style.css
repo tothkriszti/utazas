@@ -1,0 +1,23 @@
+#body {
+    background-image: url('vilagterkep.jpg');
+    color: #00008b;
+    margin: 20px auto;
+    padding: 0 20px;
+    font-family: sans-serif;
+    font-size: 14pt;
+}
+
+#kozep {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36pt;
+}
+
+#kicsi {
+    width: 175px;
+    float: left;
+    margin-right: 20px;
+}
